@@ -1,0 +1,24 @@
+          body {
+            font-family: sans-serif
+             }
+          .blue {
+            color: blue
+          }
+          .descripton {
+            background-color: orange
+            color: red;
+          }
+          p { 
+            /*background-color: red;*/
+            color: maroon;
+            /*border: 5px solid gray;*/
+          }
+          h1, h2 {
+            color: grey;
+          }
+          em {
+            font-family: sans-serif
+          }
+          h1 {
+            border-bottom: 1px solid black;
+          }
